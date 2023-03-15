@@ -1,0 +1,6 @@
+facholesky--------法方程组的cholesky分解方法解原方程组
+fagonge----------法方程组的共轭梯度法解原方程组
+gs-----------------G-S正交化的QR分解解原方程组
+householder------用Householder正交化的QR分解解原方程组
+house-------------Householder正交化过程
+n_time------------各种方法的计算量估计  &  n与所需计算时间的关系曲线
